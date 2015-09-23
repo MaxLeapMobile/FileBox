@@ -16,6 +16,8 @@ You can do your own "Dropbox" with there functions:
 * `setSyncRoot(String syncRoot)` Set the local folder as the sync root folder.
 * `addFile(File src, File target)` Add a file into FileBox. It will be sync automatically. You can also `move` / `copy` / `rename` / `delete` files in FileBox with SyncManager functions.
 * `startSync()` Sync all files with cloud storage manually.
+ 
+![Process](http://cf.appfra.com/0t0yU5ZCKYtvZRdGAb_eYw/zcf-07f690ef-c717-4da2-9e19-f7fb0b54a406.png)
 
 ## Using the library?
 
