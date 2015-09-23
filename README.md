@@ -1,19 +1,29 @@
 # FileBox
 An Android File Sync Library with MaxLeap. Both client and server are available. Easy to build your own "Dropbox" with it.
 
-# Usage
+## How to Use
 
-# Using the library?
+1. Git clone the project or download the zip
+2. Run the Example with Android Studio
+3. Edit the Example or create your own app with FileBox
+ 
+BTW, you can create your own MaxLeap Account in the [website](https://leap.as) and use your own Appid and APIKey. More example about MaxLeap could visit [this](https://github.com/LeapCloud?utf8=%E2%9C%93&query=demo).
+
+## Usage
+
+
+
+## Using the library?
 
 * [VaultX Private Album](https://play.google.com/store/apps/details?id=com.ilegendsoft.jupiter)
 
 If you're using this library in one of your projects just [send me a email](mailto:support@leap.as) and I'll add your project to the list.
 
-# Contribution
+## Contribution
 
 Pull requests are welcome! If you have a bug to report, a feature to request or have other questions, [file an issue](https://github.com/MaxLeapMobile/FileBox/issues). I'll try to answer asap.
 
-# License
+## License
 
 	Copyright 2015 MaxLeapMobile
 
