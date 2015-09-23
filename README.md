@@ -11,7 +11,7 @@ If you're using this library in one of your projects just [send me a email](mail
 
 # Contribution
 
-Pull requests are welcome! If you have a bug to report a feature to request or have other questions, [file an issue](https://github.com/MaxLeapMobile/FileBox/issues). I'll try to answer asap.
+Pull requests are welcome! If you have a bug to report, a feature to request or have other questions, [file an issue](https://github.com/MaxLeapMobile/FileBox/issues). I'll try to answer asap.
 
 # License
 
