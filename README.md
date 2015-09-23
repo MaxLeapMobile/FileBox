@@ -11,7 +11,11 @@ BTW, you can create your own MaxLeap Account in the [website](https://leap.as) a
 
 ## Usage
 
+You can do your own "Dropbox" with there functions:
 
+* `setSyncRoot(String syncRoot)` Set the local folder as the sync root folder.
+* `addFile(File src, File target)` Add a file into FileBox. It will be sync automatically. You can also `move` / `copy` / `rename` / `delete` files in FileBox with SyncManager functions.
+* `startSync()` Sync all files with cloud storage manually.
 
 ## Using the library?
 
