@@ -15,13 +15,13 @@ Pull requests are welcome! If you have a bug to report a feature to request or h
 
 # License
 
-  Copyright 2015 MaxLeapMobile
+	Copyright 2015 MaxLeapMobile
 
 	Licensed under the GNU GENERAL PUBLIC LICENSE Version 3 (the "License");
 	you may not use this file except in compliance with the License.
 	You may obtain a copy of the License at
 
-  http://www.gnu.org/licenses/gpl-3.0.en.html
+	http://www.gnu.org/licenses/gpl-3.0.en.html
 
 	Unless required by applicable law or agreed to in writing, software
 	distributed under the License is distributed on an "AS IS" BASIS,
