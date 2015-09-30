@@ -2,7 +2,7 @@
 
 An Android File Sync Library with MaxLeap. Both client and server are available. Easy to build your own "Dropbox" with it.
 
-[![Build Status](https://travis-ci.org/MaxLeapMobile/FileBox.svg?branch=master)](https://travis-ci.org/MaxLeapMobile/FileBox)
+[![Building Status](https://travis-ci.org/MaxLeapMobile/FileBox.svg?branch=master)](https://travis-ci.org/MaxLeapMobile/FileBox)
 
 ## How to Use
 
